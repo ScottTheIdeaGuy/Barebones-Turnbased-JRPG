@@ -1,0 +1,37 @@
+{
+  "name": "JRPG",
+  "ogmoVersion": "3.4.0",
+  "levelPaths": ["."],
+  "backgroundColor": "#a932aaff",
+  "gridColor": "#3c4049cc",
+  "anglesRadians": true,
+  "directoryDepth": 5,
+  "layerGridDefaultSize": {"x": 8, "y": 8},
+  "levelDefaultSize": {"x": 320, "y": 240},
+  "levelMinSize": {"x": 20, "y": 18},
+  "levelMaxSize": {"x": 4096, "y": 4096},
+  "levelValues": [],
+  "defaultExportMode": ".json",
+  "compactExport": false,
+  "externalScript": "",
+  "playCommand": "",
+  "entityTags": [],
+  "layers": [
+    {
+      "definition": "tile",
+      "name": "Foreground",
+      "gridSize": {
+        "x": 8,
+        "y": 8
+      },
+      "exportID": "18058168",
+      "exportMode": 0,
+      "arrayMode": 0,
+      "defaultTileset": "basic-tileset"
+    }
+  ],
+  "entities": [],
+  "tilesets": [
+    {"label": "basic-tileset", "path": "basic-tileset.png", "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJUExURQAAANvb2wAAAPTqdfwAAAADdFJOU///ANfKDUEAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEKSURBVHhe7dTdssIgDEbR2vd/aAn5xLTizzBtyox7XwmckqWecVkfLTUt8moTfX6+IABuJQD/DfC0TOs58Jr5FeCjY36mthv2RcW0PdzSGW/puLRba25L28NVgO5qxYH7f876ByFtD2fvTleFgiABoJs2AfgKaI9pe7hBQHlMz2l7uA8AG2L52ssE2Iyar1XeV/BuXy9aumc4APMC7MTztcr8IfKJW8AEv4RHB2AGQEdQNnV+PqD3GYT5OYBOOi7t1wdnN/uImJ+pl41DO/Hq3wIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXAxY1zufLnn59V+NJwAAAABJRU5ErkJggg==", "tileWidth": 8, "tileHeight": 8, "tileSeparationX": 0, "tileSeparationY": 0, "tileMarginX": 0, "tileMarginY": 0}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "JRPG": {
+      "commandName": "Project",
+      "nativeDebugging": true,
+      "hotReloadEnabled": false
+    }
+  }
+}
